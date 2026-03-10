@@ -7,7 +7,7 @@
 
 <div align="center"> 
   <a href="https://BlackTechX011.github.io">
-    <img src="https://komarev.com/ghpvc/?username=BlackTechX011&label=This+Month+PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=BlackTechX011&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views"/>
   </a>
 </div>
 <h3 align="center">Connect with Me:</h3>
