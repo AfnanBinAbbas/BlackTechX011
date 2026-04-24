@@ -1,27 +1,27 @@
-<h1 align="center">Welcome, I'm BlackTechX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Welcome, I'm Afnan Bin Abbas! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 <div align="center">
-  <a href="https://github.com/BlackTechX011">
+  <a href="https://github.com/AfnanBinAbbas">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=27&color=36BCF7¢er=true&vCenter=true&width=300&height=50&lines=A+Cybersecurity+Researcher...;AI+%26+IoT+Developer...;and+a+Programmer." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center"> 
-  <a href="https://BlackTechX011.github.io">
-    <img src="https://komarev.com/ghpvc/?username=BlackTechX011&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+  <a href="https://AfnanBinAbbas.github.io">
+    <img src="https://komarev.com/ghpvc/?username=AfnanBinAbbas&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views"/>
   </a>
 </div>
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-  <a href="https://x.com/BlackTechX011" target="_blank">
+  <a href="https://x.com/AfnanBinAbbas" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
-  <a href="https://www.youtube.com/@BlackTechX_" target="_blank">
+  <a href="https://www.youtube.com/@AfnanBinAbbas_" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://www.instagram.com/BlackTechX011/" target="_blank">
+  <a href="https://www.instagram.com/AfnanBinAbbas/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://github.com/BlackTechX011" target="_blank">
+  <a href="https://github.com/AfnanBinAbbas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
@@ -48,7 +48,7 @@ I'm driven by a passion for building secure, efficient solutions and exploring t
 <div align="center">
 <h3>Support My Work</h3>
 <p>If you find value in my projects and research, consider supporting me. <br> It's greatly appreciated and helps me dedicate more time to creating and sharing with the community!</p>
-<a href="https://www.buymeacoffee.com/blacktechx" target="_blank">
+<a href="https://www.buymeacoffee.com/AfnanBinAbbas" target="_blank">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
 </a>
 </div>
@@ -73,9 +73,9 @@ A definitive showcase of the languages, tools, and technologies I wield across m
 
 ### ⚡ GitHub Activity & Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackTechX011&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackTechX011&show_icons=true&theme=transparent&rank_icon=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BlackTechX011&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfnanBinAbbas&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AfnanBinAbbas&show_icons=true&theme=transparent&rank_icon=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AfnanBinAbbas&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     
 </div>
 
@@ -83,7 +83,7 @@ A definitive showcase of the languages, tools, and technologies I wield across m
 
 ### 🏆 GitHub Achievements:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BlackTechX011&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AfnanBinAbbas&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies">
 </div>
 
 
